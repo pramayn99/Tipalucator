@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tipalucator</string>
+    <string name="main.msg.billamount">Bill amount</string>
+    <string name="main.hint.enteramount">Enter amount</string>
+    <string name="main.msg.servicerating">Service Rating</string>
+    <string name="main.msg.tippercent">%s%% Tip Percent</string>
+    <string name="main.msg.tiptotal">₹%s Tip Total</string>
+    <string name="main.msg.billtotal">Bill Total</string>
+    <string name="main.msg.billnumtotal">₹%s</string>
+</resources>
