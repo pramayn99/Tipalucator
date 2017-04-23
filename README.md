@@ -3,4 +3,4 @@ Tipalucator is an android application that can be used by a vendor to calculate 
 
 # Screenshots
 
-![Homescreen](https://photos.google.com/photo/AF1QipM_E6ldoqUkdVareVFdj7cwLE9NBksfUwBTu3kD)
+![Homescreen](https://cloud.githubusercontent.com/assets/22219118/25315365/7e7a2bf4-2871-11e7-9e18-2b5f9d3d275f.png)
